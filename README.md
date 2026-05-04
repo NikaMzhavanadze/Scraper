@@ -36,4 +36,4 @@ If you download this project and see an error regarding the `python.exe` path, i
 To create a standalone Windows application:
 ```bash
 pip install pyinstaller
-pyinstaller --noconsole --onefile --collect-all selenium --collect-all webdriver_manager SrapeTest.py
+pyinstaller --noconsole --onefile --collect-all selenium --collect-all webdriver_manager Scraper.py
